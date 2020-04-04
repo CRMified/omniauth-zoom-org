@@ -3,8 +3,8 @@ require "omniauth-zoom/version"
 
 Gem::Specification.new do |gem|
   gem.name        = "omniauth-zoom-org"
-  gem.version     = Omniauth::ZoomOrg::VERSION
-  gem.authors     = ["Nikhil Gupta"]
+  gem.version     = Omniauth::Zoom::VERSION
+  gem.authors     = ["Joshua Hoskins"]
   gem.email       = ["me@nikhgupta.com"]
   gem.homepage    = "https://github.com/nikhgupta/omniauth-zoom"
   gem.description = %q{OmniAuth strategy for Zoom}
