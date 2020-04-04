@@ -1,8 +1,8 @@
 $:.push File.expand_path("../lib", __FILE__)
-require "omniauth-zoom/version"
+require "omniauth-zoom-org/version"
 
 Gem::Specification.new do |gem|
-  gem.name        = "omniauth-zoom"
+  gem.name        = "omniauth-zoom-org"
   gem.version     = Omniauth::Zoom::VERSION
   gem.authors     = ["Nikhil Gupta"]
   gem.email       = ["me@nikhgupta.com"]
