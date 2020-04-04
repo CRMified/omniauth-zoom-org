@@ -1,5 +1,5 @@
 $:.push File.expand_path("../lib", __FILE__)
-require "omniauth-zoom-org/version"
+require "omniauth-zoom/version"
 
 Gem::Specification.new do |gem|
   gem.name        = "omniauth-zoom-org"
