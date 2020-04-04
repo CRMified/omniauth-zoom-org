@@ -1,7 +1,7 @@
 require 'httparty'
 
 module OmniAuth
-  module Zoom
+  module ZoomOrg
     class API
       include HTTParty
       base_uri 'https://api.zoom.us/v2'
