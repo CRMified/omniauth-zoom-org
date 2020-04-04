@@ -1,8 +1,8 @@
 require 'spec_helper'
 
-RSpec.describe OmniAuth::Strategies::Zoom do
+RSpec.describe OmniAuth::Strategies::ZoomOrg do
   subject do
-    OmniAuth::Strategies::Zoom.new({})
+    OmniAuth::Strategies::ZoomOrg.new({})
   end
 
   context "client options" do
