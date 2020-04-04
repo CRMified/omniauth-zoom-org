@@ -9,13 +9,13 @@ You can read more about Zoom's OAuth over at their [developer page](https://devd
 
 see [CONTRIBUTING.md][contributing]
 
-[contributing]: https://github.com/nikhgupta/omniauth-zoom/blob/master/CONTRIBUTING.md
+[contributing]: https://github.com/nikhgupta/omniauth-zoom-org/blob/master/CONTRIBUTING.md
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'omniauth-zoom'
+    gem 'omniauth-zoom-org'
 
 And then execute:
 
@@ -23,7 +23,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install omniauth-zoom
+    $ gem install omniauth-zoom-org
 
 ## Usage
 
