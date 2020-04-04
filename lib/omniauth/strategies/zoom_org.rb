@@ -15,7 +15,7 @@ module OmniAuth
 
       info do
         unless @info
-          api = OmniAuth::Zoom::API.new(token)
+          api = OmniAuth::ZoomOrg::API.new(token)
           @info = api.get("/users/me")
         end
 
