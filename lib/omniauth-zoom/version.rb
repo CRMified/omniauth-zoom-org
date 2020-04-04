@@ -1,5 +1,5 @@
 module Omniauth
-  module Zoom
+  module ZoomOrg
     VERSION = "1.1.2"
   end
 end
